@@ -12,7 +12,7 @@ I am currently working on the following projects:
 
 <a href="https://h4ck.icu">h4ck</a> -  My Paste Script
 
-<a href="https://www.zombie.sbs">Zombie</a> - My Hardcore First Person DayZ Server
+<a href="https://www.dayz-pve.de">DayZ PvE</a> - My Hardcore First Person DayZ Server
 
 <a href="https://dayz.photos">DayZ Photos</a> - My DayZ Screenshot Hosting
 
