@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Christian and my great passion is to develop scripts and websites and to realize my own small projects. All these projects are pure hobby projects with no financial interest.
+My name is Christian and my great passion is to develop WoW AddOns and Ui´s, DayZ Scripts, PHP Scripts and websites and to realize my own small projects. All these projects are pure hobby projects with no financial interest.
 
-Besides, I'm a passionate DayZ Hardcore and Vanilla player on first person servers.
+DayZ Vanilla Hardcore First Person since the earliest days of ArmA 2 Mod // World of Warcraft player since February 2005 and a huge WotLK Fan
 
 I am currently working on the following projects:
 
