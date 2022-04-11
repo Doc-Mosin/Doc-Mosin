@@ -1,16 +1,12 @@
-### Hi there 👋
 
-My name is Christian and my great passion is to develop WoW AddOns and Ui´s, DayZ Scripts, PHP Scripts and websites and to realize my own small projects. All these projects are pure hobby projects with no financial interest.
+Hi, I’m @Christian-1312. Ich bin ein Hobby Programmierer / Entwickler und liebe das arbeiten mit HTML, CSS, PHP, Java und vielen anderen Sprachen. Ich entwickel Hobbymäßig Webseiten und Scripte und gestalte Logos und Schriftzüge. Ich arbeite an Discord Bots und vielen anderen Projekten.
 
-DayZ Vanilla Hardcore First Person since the earliest days of ArmA 2 Mod // World of Warcraft player since February 2005 and a huge WotLK Fan
+Meistens entwickel ich diese Sachen für mich und daher ist der meiste Stuff auf meiner GitHub Seite auch Privat.
 
-I am currently working on the following projects:
+Ich bin leidenschaftlicher DayZ Hardcore Spieler und Modder und liebe Musik. Meine große Liebe ist Namalsk seid frühstens ArmA 2 DayZ Mod tagen.
 
-<a href="https://0o.tf">Oo Cloud</a> - My unlimited Freehosting
+Wie erwähnt ist das hier alles ehr Privat und daher gibt es hier auch nichts interessantes zu finden eigentlich.
 
-<a href="https://ww1.sbs">ww1</a> - My Url Shortener
-
-You can contact me at my email <b>christian@doc-mosin.de</b> or in Discord under <b>Доктор Мосин#0741</b> in German or English!
-
+Kontakt: Webseite: https://0o.tf DayZ Server: https://www.namalsk.de - DayZ Namalsk Hardcore EMail: me@0o.tf Discord: Z#0001
 
 
