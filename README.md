@@ -1,5 +1,5 @@
 
-Hi, I’m @Christian-1312. Ich bin ein Hobby Programmierer / Entwickler und liebe das arbeiten mit HTML, CSS, PHP, Java und vielen anderen Sprachen. Ich entwickel Hobbymäßig Webseiten und Scripte und gestalte Logos und Schriftzüge. Ich arbeite an Discord Bots und vielen anderen Projekten.
+Hi, I’m @Doc Ich bin ein Hobby Programmierer / Entwickler und liebe das arbeiten mit HTML, CSS, PHP, Java und vielen anderen Sprachen. Ich entwickel Hobbymäßig Webseiten und Scripte und gestalte Logos und Schriftzüge. Ich arbeite an Discord Bots und vielen anderen Projekten.
 
 Meistens entwickel ich diese Sachen für mich und daher ist der meiste Stuff auf meiner GitHub Seite auch Privat.
 
