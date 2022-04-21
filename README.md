@@ -7,6 +7,6 @@ Ich bin leidenschaftlicher DayZ Hardcore Spieler und Modder und liebe Musik. Mei
 
 Wie erwähnt ist das hier alles ehr Privat und daher gibt es hier auch nichts interessantes zu finden eigentlich.
 
-Kontakt: Webseite: https://www.doc-mosin.de // DayZ Server: https://www.namalsk.de - DayZ Namalsk Hardcore // EMail: me@0o.tf // Discord: _Z_#0001
+Kontakt: Webseite: https://www.doc-mosin.de // DayZ Server: https://www.zombie.li - DayZ Hardcore // EMail: me@0o.tf // Discord: _Z_#0001
 
 
