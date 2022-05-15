@@ -3,7 +3,7 @@ Hi, I’m @Doc Ich bin ein Hobby Programmierer / Entwickler und liebe das arbeit
 
 Meistens entwickel ich diese Sachen für mich und daher ist der meiste Stuff auf meiner GitHub Seite auch Privat.
 
-Ich bin leidenschaftlicher DayZ Hardcore Spieler und Modder und liebe Musik. Meine große Liebe ist Namalsk seid frühstens ArmA 2 DayZ Mod tagen.
+Ich bin leidenschaftlicher DayZ Hardcore Spieler und Modder und liebe Musik. Meine große Liebe ist Namalsk seid frühstens ArmA 2 DayZ Mod tagen. Ich spiele nur auf Vanilla / Vanilla+ und First Person Servern den 3PP, Unlimited Stamina, Trader usw sind für mich Bullshit.
 
 Wie erwähnt ist das hier alles ehr Privat und daher gibt es hier auch nichts interessantes zu finden eigentlich.
 
