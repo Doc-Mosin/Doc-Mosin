@@ -1,12 +1,10 @@
 
-Hi, I’m @Doc Ich bin ein Hobby Programmierer / Entwickler und liebe das arbeiten mit HTML, CSS, PHP, Java und vielen anderen Sprachen. Ich entwickel Hobbymäßig Webseiten und Scripte und gestalte Logos und Schriftzüge. Ich arbeite an Discord Bots und vielen anderen Projekten und bin ein großer Linux Fan. Ich benutze verschiedene Linux Reps an meinen 2 und 3 PC.
+Hi, I'm @Doc I'm a hobby programmer / developer and love working with HTML, CSS, PHP, Java and many other languages. I develop websites and scripts as a hobby and design logos and lettering. I work on discord bots and many other projects and am a big linux fan. I use different linux reps on my 2 and 3 pcs.
 
-Meistens entwickel ich diese Sachen für mich und daher ist der meiste Stuff auf meiner GitHub Seite auch Privat.
+Most of the time I develop these things for myself and therefore most of the stuff on my GitHub page is also private.
 
-Ich bin leidenschaftlicher DayZ Hardcore Spieler und Modder und liebe Musik. Meine große Liebe ist Namalsk seid frühstens ArmA 2 DayZ Mod tagen. Ich spiele nur auf Vanilla / Vanilla+ und First Person Servern den 3PP, Unlimited Stamina, Trader usw sind für mich Bullshit.
+I'm a passionate DayZ Hardcore Player, DayOne fanboy and modder and love music. My great love is Namalsk since ArmA 2 DayZ Mod days at the earliest. I only play on Vanilla / Vanilla+ and First Person Servers the 3PP, Unlimited Stamina, Trader etc are bullshit for me.
 
-Wie erwähnt ist das hier alles ehr Privat und daher gibt es hier auch nichts interessantes zu finden eigentlich.
-
-Kontakt: Webseite: https://www.doc-mosin.de // DayZ Server: https://www.zombie.li - DayZ Hardcore // EMail: me@0o.tf // Discord: _Z_#0001
+As mentioned, everything here is very private and therefore there is actually nothing interesting to find here.
 
 
